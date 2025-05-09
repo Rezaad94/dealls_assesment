@@ -20,8 +20,8 @@ In this repository, there are answer for chalange 1 and 2
 ## 3. Install Dependencies
 - `npm install`
 
-## 4. Install Playwright Browsers
-- `npm playwright install`
+## 4. Install Playwright
+- `npx playwright install`
 
 ## 5. Running test
 - Run all test headless 
