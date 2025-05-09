@@ -2,8 +2,8 @@
 
 In this repository, there are answer for chalange 1 and 2
 
-- Challange 1 you can access here _link_
-- Challange 2 you can access here _link_
+- Challange 1 you can access here _https://github.com/Rezaad94/dealls_assesment/tree/main/challange2_
+- Challange 2 you can access here _https://github.com/Rezaad94/dealls_assesment/blob/main/challange1.md_
 
 # How to play with challange 2 
 ## 1. Make sure your system requirements
@@ -13,7 +13,8 @@ In this repository, there are answer for chalange 1 and 2
 - Debian 12, Ubuntu 22.04, Ubuntu 24.04, on x86-64 and arm64 architecture.
 
 ## 2. Clone git repository
-- `git clone https://github.com/username/nama-repo.git`
+- `git clone https://github.com/Rezaad94/dealls_assesment.git`
+- `cd dealls_assesment`
 - `cd challange2`
 
 ## 3. Install Dependencies
